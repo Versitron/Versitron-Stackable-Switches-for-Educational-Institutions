@@ -1,0 +1,2 @@
+# Versitron-Stackable-Switches-for-Educational-Institutions
+Versitron provides stackable switches for educational institutions, managed industrial Ethernet switches for oil rigs, hazardous area network switches for gas plants, and managed PoE+ switches for energy monitoring systems offering secure, high-performance, and rugged connectivity solutions for education, oil and gas, and energy industries.
